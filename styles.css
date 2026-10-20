@@ -1,0 +1,15 @@
+html{
+background-color: black;
+color: white;
+text-align: center;
+}
+h2 {
+font-size: 30px;
+}
+img {
+height: 150px;
+}
+
+.container{
+border: 2px dashed blue;
+}
